@@ -1,2 +1,1 @@
-# calculatorApp
 # BodyMassIndexCalculator
